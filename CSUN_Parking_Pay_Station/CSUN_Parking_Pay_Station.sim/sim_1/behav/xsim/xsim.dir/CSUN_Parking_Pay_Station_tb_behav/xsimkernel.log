@@ -1,0 +1,4 @@
+Running: xsim.dir/CSUN_Parking_Pay_Station_tb_behav/xsimk.exe -simmode gui -wdb CSUN_Parking_Pay_Station_tb_behav.wdb -simrunnum 0 -socket 52140
+Design successfully loaded
+Design Loading Memory Usage: 7968 KB (Peak: 7968 KB)
+Design Loading CPU Usage: 15 ms

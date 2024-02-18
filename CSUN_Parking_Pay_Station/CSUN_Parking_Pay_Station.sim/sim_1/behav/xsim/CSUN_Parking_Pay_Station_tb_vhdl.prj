@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../CSUN_Parking_Pay_Station.srcs/sources_1/new/CSUN_Parking_Pay_Station.vhd" \
+"../../../../CSUN_Parking_Pay_Station.srcs/sim_1/new/CSUN_Parking_Pay_Station_tb.vhd" \
+
+# Do not sort compile order
+nosort
